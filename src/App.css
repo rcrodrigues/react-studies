@@ -11,4 +11,5 @@
 .study-app__input, .study-app__output {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
